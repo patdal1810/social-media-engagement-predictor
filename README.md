@@ -1,9 +1,6 @@
 # Social Media Engagement Predictor (High vs Not High)
 
 A production-style machine learning project that predicts whether a social media post is likely to achieve **high engagement** using only **pre-post features**.
-
-This project is designed for **portfolio presentation on GitHub**, with clean structure, reproducibility, and real-world ML design choices.
-
 ---
 
 ## Project Overview
